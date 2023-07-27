@@ -1,0 +1,77 @@
+.about {
+	background: rgba(20, 30, 48, 1);
+}
+
+.main-section__h2 {
+	background: linear-gradient(to bottom, rgba(26, 27, 29, 0.9), rgba(26, 27, 29, 0.50), rgba(26, 27, 29, 0));
+	background-clip: text;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	font-family: 'Gilroy-Black';
+	font-size: 3rem;
+	text-shadow: 2px 1px rgba(42, 82, 152, 0.7);
+	border-bottom: 1px solid rgba(55, 59, 68, 1);
+}
+
+.main-section__h3 {
+	font-family: 'Barlow Condensed', sans-serif;
+	font-weight: 500;
+	color: #a5a5a5;
+}
+
+.main-section__p {
+	font-family: 'Barlow Condensed', sans-serif;
+	text-align: justify;
+	font-size: 1.2rem;
+	font-weight: 300;
+	color: #a5a5a5;
+}
+.cont-icon {
+		width: 50px;
+	height: 50px;
+	padding: 6px;
+	border-radius: 3px;
+	margin: 5px;
+}
+
+.section__article-img {
+	width: 100%;
+	height: 100%;
+}
+
+.html {
+	background: url('../img/html-icon.png');
+	background-size: cover;
+}
+.css {
+	background: url('../img/css-icon.png');
+	background-size: cover;
+}
+.bootstrap {
+	background: url('../img/bootstrap-icon.png');
+	background-size: cover;
+}
+
+.javascript {
+	background: url('../img/javascript-icon.png');
+	background-size: cover;
+}
+
+.react {
+	background: url('../img/react-icon.svg');
+	background-size: cover;
+}
+
+.node {
+	background: url('../img/node-icon.png');
+	background-size: cover;
+}
+
+.php {
+	background: url('../img/php-icon.png');
+	background-size: cover;
+}
+.git {
+	background: url('../img/git-icon.png');
+	background-size: cover;
+}

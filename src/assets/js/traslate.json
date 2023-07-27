@@ -1,0 +1,12 @@
+{
+	"en": {
+		"title": "Who am i?",
+		"text": "I am a Network and Information Systems Engineer - I live in El Salvador in the city of San Miguel. I have been creating web development projects during the bootcamp to specialize in FrontEnd and BackEnd.",
+		"myskill": "My skills:"
+	},
+	"es": {
+		"title": "¿Quién soy?",
+		"text": "soy ingeniero en Redes y Sistemas de Información - Vivo en El Salvador en la ciudad de San Miguel. He estado creando proyectos de desarrollo web durante el bootcamp para especializarme en FrontEnd y BackEnd.",
+		"myskill": "Mis habilidades:"
+	}
+}
