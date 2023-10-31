@@ -7,16 +7,16 @@ import Portfolio from './components/Portfolio';
 import Services from './components/Services';
 
 function App() {
-	return (
-		<>
-			<NavBar />
-			<Header />
-			<About />
-			<Services />
-			<Portfolio />
-			<Footer />
-		</>
-	);
+  return (
+    <>
+      <NavBar />
+      <Header />
+      <About />
+      <Services />
+      <Portfolio />
+      <Footer />
+    </>
+  );
 }
 
 export default App;
