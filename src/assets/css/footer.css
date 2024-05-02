@@ -1,27 +1,27 @@
 .footer {
-	background: rgba(20, 30, 48, 1);
+  background: rgba(20, 30, 48, 1);
 }
-.footer-title{
-font-family: 'Gilroy-Black';
+.footer-title {
+  font-family: 'Gilroy-Black';
   font-weight: 500;
 }
 
-.footer-icon{
+.footer-icon {
   display: block;
-	width: 45px;
-	height: 45px;
+  width: 45px;
+  height: 45px;
 }
 
 .facebook {
-	background: url('../img/facebook.png');
-	background-size: cover;
+  background: url('../img/facebook.png');
+  background-size: cover;
 }
-.linkedin{
+.linkedin {
   background: url('../img/linkedin.png');
   background-size: cover;
 }
 
-.twitter{
+.twitter {
   background: url('../img/twitter.png');
   background-size: cover;
 }
